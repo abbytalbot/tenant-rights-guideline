@@ -19,7 +19,6 @@ Try these prompts to test the skill:
 - “I got an eviction notice and don’t know what to do.”
 -	“Can my landlord evict me without going to court?”
 -	“I’m being kicked out of my apartment.”
-1.	
 
 ## Design Notes
 
